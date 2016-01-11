@@ -57,6 +57,24 @@ html, body {
 	background-color: #0000FF;
 }
 
+#colorTitle {
+	font-family: Fjalla One;
+}
+
+.color {
+	position: relative;
+	left: 10px;
+	height: 413px;
+	width: 100px;
+}
+
+.rgb {
+	height: 30px;
+	width: 100px;
+	border: 1px solid grey;
+
+}
+
 
 
 
